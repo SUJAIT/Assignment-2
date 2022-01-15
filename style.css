@@ -5,8 +5,7 @@
                                                                                      font-family: 'Poppins',
                                                                                      sans-serif;
                                                                                      /* Nav Design */
-                                                                                     
-                                                                                     * {
+                                                                                     /* * {
                                                                                          margin: 0;
                                                                                          padding: 0;
                                                                                          font-family: sans-serif;
@@ -16,7 +15,7 @@
                                                                                      p,
                                                                                      li {
                                                                                          text-decoration: none;
-                                                                                     }
+                                                                                     } */
                                                                                      
                                                                                      header {
                                                                                          width: 900px;
@@ -26,9 +25,10 @@
                                                                                      /* logo--design */
                                                                                      
                                                                                      .logo {
-                                                                                         font-size: 20px;
+                                                                                         font-size: 30px;
                                                                                          padding: 10px 20px;
                                                                                          cursor: pointer;
+                                                                                         margin-left: 40px;
                                                                                      }
                                                                                      
                                                                                      .nav-bar li {
@@ -311,4 +311,44 @@
                                                                                          margin-left: 950px;
                                                                                          margin-top: 20px;
                                                                                          font-size: 18px;
+                                                                                     }
+                                                                                     /* last--work */
+                                                                                     
+                                                                                     .last {
+                                                                                         background-color: rgb(22, 21, 66);
+                                                                                         width: 1000px;
+                                                                                         margin-left: 50px;
+                                                                                     }
+                                                                                     
+                                                                                     .last-five {
+                                                                                         display: grid;
+                                                                                         grid-template-columns: 990px;
+                                                                                     }
+                                                                                     
+                                                                                     .last-one {
+                                                                                         display: flex;
+                                                                                         justify-content: center;
+                                                                                         color: #fff;
+                                                                                     }
+                                                                                     
+                                                                                     .last-two {
+                                                                                         display: flex;
+                                                                                         justify-content: center;
+                                                                                         color: #fff;
+                                                                                     }
+                                                                                     
+                                                                                     .last-there {
+                                                                                         display: flex;
+                                                                                         justify-content: center;
+                                                                                         color: #fff;
+                                                                                     }
+                                                                                     
+                                                                                     .last-four {
+                                                                                         display: flex;
+                                                                                         justify-content: center;
+                                                                                     }
+                                                                                     
+                                                                                     .fab {
+                                                                                         color: #fff;
+                                                                                         margin: 3px;
                                                                                      }
