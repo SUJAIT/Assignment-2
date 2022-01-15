@@ -1,0 +1,314 @@
+                                                                                     /* google--fonts---link */
+                                                                                     
+                                                                                     font-family: 'Island Moments',
+                                                                                     cursive;
+                                                                                     font-family: 'Poppins',
+                                                                                     sans-serif;
+                                                                                     /* Nav Design */
+                                                                                     
+                                                                                     * {
+                                                                                         margin: 0;
+                                                                                         padding: 0;
+                                                                                         font-family: sans-serif;
+                                                                                     }
+                                                                                     
+                                                                                     a,
+                                                                                     p,
+                                                                                     li {
+                                                                                         text-decoration: none;
+                                                                                     }
+                                                                                     
+                                                                                     header {
+                                                                                         width: 900px;
+                                                                                         display: flex;
+                                                                                         justify-content: space-between;
+                                                                                     }
+                                                                                     /* logo--design */
+                                                                                     
+                                                                                     .logo {
+                                                                                         font-size: 20px;
+                                                                                         padding: 10px 20px;
+                                                                                         cursor: pointer;
+                                                                                     }
+                                                                                     
+                                                                                     .nav-bar li {
+                                                                                         list-style: none;
+                                                                                         display: inline-block;
+                                                                                     }
+                                                                                     
+                                                                                     .nav-bar {
+                                                                                         padding: 10px 20px;
+                                                                                     }
+                                                                                     
+                                                                                     .icons {
+                                                                                         padding: 10px 20px;
+                                                                                     }
+                                                                                     /* intro section */
+                                                                                     
+                                                                                     .first-img {
+                                                                                         width: 40px;
+                                                                                         padding-right: -70px;
+                                                                                     }
+                                                                                     
+                                                                                     .container {
+                                                                                         width: 1000px;
+                                                                                         margin-left: 100px;
+                                                                                     }
+                                                                                     
+                                                                                     .parents {
+                                                                                         padding: 10px;
+                                                                                         display: flex;
+                                                                                     }
+                                                                                     /* intro section ---button */
+                                                                                     
+                                                                                     .b-one {
+                                                                                         background-color: rgb(240, 61, 120);
+                                                                                         border-radius: 20px;
+                                                                                         height: 35px;
+                                                                                         color: white;
+                                                                                         border: 0px;
+                                                                                         padding-left: 10px;
+                                                                                         padding-right: 10px;
+                                                                                     }
+                                                                                     /* All logo */
+                                                                                     
+                                                                                     .parents-two {
+                                                                                         display: flex;
+                                                                                         justify-content: space-between;
+                                                                                     }
+                                                                                     /* hr--tag--design */
+                                                                                     
+                                                                                     hr {
+                                                                                         color: rgba(189, 187, 187, 0.52);
+                                                                                     }
+                                                                                     /* ---------------Popular Collection--design-------------- */
+                                                                                     /* --------------------container --------------------------------------*/
+                                                                                     
+                                                                                     .container-products {
+                                                                                         width: 1000px;
+                                                                                         margin-left: 180px;
+                                                                                     }
+                                                                                     
+                                                                                     .container-two {
+                                                                                         width: 1000px;
+                                                                                         margin-left: 180px;
+                                                                                     }
+                                                                                     
+                                                                                     .container-there {
+                                                                                         width: 1000px;
+                                                                                         margin-left: 180px;
+                                                                                     }
+                                                                                     
+                                                                                     .container-four {
+                                                                                         width: 1000px;
+                                                                                         margin-left: 180px;
+                                                                                     }
+                                                                                     
+                                                                                     .container-five {
+                                                                                         width: 1000px;
+                                                                                         margin-left: 180px;
+                                                                                     }
+                                                                                     
+                                                                                     .container-sex {
+                                                                                         width: 1000px;
+                                                                                         margin-left: 180px;
+                                                                                     }
+                                                                                     
+                                                                                     .container-seven {
+                                                                                         width: 1000px;
+                                                                                         margin-left: 180px;
+                                                                                     }
+                                                                                     /* container----end------------ */
+                                                                                     
+                                                                                     .products-heading {
+                                                                                         margin-left: 450px;
+                                                                                         width: 1000px;
+                                                                                     }
+                                                                                     /* products-design */
+                                                                                     
+                                                                                     .tripod .img-tripod {
+                                                                                         width: 200px;
+                                                                                         height: 180px;
+                                                                                     }
+                                                                                     
+                                                                                     .add,
+                                                                                     .buy {
+                                                                                         border-radius: 5px;
+                                                                                         -webkit-border-radius: 5px;
+                                                                                         -moz-border-radius: 5px;
+                                                                                         -ms-border-radius: 5px;
+                                                                                         -o-border-radius: 5px;
+                                                                                         font-size: 11px;
+                                                                                         color: #fff;
+                                                                                         border: 0px;
+                                                                                     }
+                                                                                     
+                                                                                     .add {
+                                                                                         background-color: skyblue;
+                                                                                     }
+                                                                                     
+                                                                                     .buy {
+                                                                                         background-color: skyblue;
+                                                                                     }
+                                                                                     
+                                                                                     .parents-three {
+                                                                                         background-color: #fff;
+                                                                                         border-radius: 20px;
+                                                                                         height: 350px;
+                                                                                         width: 230px;
+                                                                                         display: flex;
+                                                                                         justify-content: center;
+                                                                                         box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+                                                                                     }
+                                                                                     
+                                                                                     .img-tripod .flex-write {
+                                                                                         margin-top: 5px;
+                                                                                         font-size: 20px;
+                                                                                     }
+                                                                                     
+                                                                                     .price-write {
+                                                                                         margin-top: -14px;
+                                                                                         font-size: 18px;
+                                                                                     }
+                                                                                     
+                                                                                     .rating {
+                                                                                         margin-top: -18px;
+                                                                                         margin-left: -40px;
+                                                                                         font-size: 10px;
+                                                                                         color: coral;
+                                                                                     }
+                                                                                     
+                                                                                     span {
+                                                                                         color: black;
+                                                                                     }
+                                                                                     
+                                                                                     .details {
+                                                                                         font-size: 15px;
+                                                                                     }
+                                                                                     
+                                                                                     .ptag-one {
+                                                                                         margin-top: -11px;
+                                                                                     }
+                                                                                     
+                                                                                     .ptag-two {
+                                                                                         margin-top: -19px;
+                                                                                     }
+                                                                                     
+                                                                                     .ptag-there {
+                                                                                         margin-top: -19px;
+                                                                                     }
+                                                                                     /* products-two */
+                                                                                     
+                                                                                     .parents-four {
+                                                                                         background-color: #fff;
+                                                                                         border-radius: 20px;
+                                                                                         height: 350px;
+                                                                                         width: 230px;
+                                                                                         display: flex;
+                                                                                         justify-content: center;
+                                                                                         box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+                                                                                         margin-left: 300px;
+                                                                                         margin-top: -350px;
+                                                                                     }
+                                                                                     /* products--there */
+                                                                                     
+                                                                                     .parents-five {
+                                                                                         background-color: #fff;
+                                                                                         border-radius: 20px;
+                                                                                         height: 350px;
+                                                                                         width: 230px;
+                                                                                         display: flex;
+                                                                                         justify-content: center;
+                                                                                         box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+                                                                                         margin-left: 600px;
+                                                                                         margin-top: -350px;
+                                                                                     }
+                                                                                     /* products--four */
+                                                                                     
+                                                                                     .parents-six {
+                                                                                         background-color: #fff;
+                                                                                         border-radius: 20px;
+                                                                                         height: 350px;
+                                                                                         width: 230px;
+                                                                                         display: flex;
+                                                                                         justify-content: center;
+                                                                                         box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+                                                                                         margin-top: 10px;
+                                                                                     }
+                                                                                     /* products-seven */
+                                                                                     
+                                                                                     .parents-seven {
+                                                                                         background-color: #fff;
+                                                                                         border-radius: 20px;
+                                                                                         height: 350px;
+                                                                                         width: 230px;
+                                                                                         display: flex;
+                                                                                         justify-content: center;
+                                                                                         box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+                                                                                         margin-top: -350px;
+                                                                                         margin-left: 300px;
+                                                                                     }
+                                                                                     /* products-eaight */
+                                                                                     
+                                                                                     .parents-eaight {
+                                                                                         background-color: #fff;
+                                                                                         border-radius: 20px;
+                                                                                         height: 350px;
+                                                                                         width: 230px;
+                                                                                         display: flex;
+                                                                                         justify-content: center;
+                                                                                         box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+                                                                                         margin-top: -350px;
+                                                                                         margin-left: 600px;
+                                                                                     }
+                                                                                     /* products---nine---- */
+                                                                                     
+                                                                                     .parents-nine {
+                                                                                         background-color: #fff;
+                                                                                         border-radius: 20px;
+                                                                                         height: 350px;
+                                                                                         width: 230px;
+                                                                                         display: flex;
+                                                                                         justify-content: center;
+                                                                                         box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+                                                                                         margin-top: 10px;
+                                                                                     }
+                                                                                     /* products--ten */
+                                                                                     
+                                                                                     .parents-ten {
+                                                                                         background-color: #fff;
+                                                                                         border-radius: 20px;
+                                                                                         height: 350px;
+                                                                                         width: 230px;
+                                                                                         display: flex;
+                                                                                         justify-content: center;
+                                                                                         box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+                                                                                         margin-top: -350px;
+                                                                                         margin-left: 300px;
+                                                                                     }
+                                                                                     /* products---eleven */
+                                                                                     
+                                                                                     .parents-eleven {
+                                                                                         background-color: #fff;
+                                                                                         border-radius: 20px;
+                                                                                         height: 350px;
+                                                                                         width: 230px;
+                                                                                         display: flex;
+                                                                                         justify-content: center;
+                                                                                         box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+                                                                                         margin-top: -350px;
+                                                                                         margin-left: 600px;
+                                                                                     }
+                                                                                     /* -----------see--more----------- */
+                                                                                     
+                                                                                     .b-two {
+                                                                                         background-color: Transparent;
+                                                                                         background-repeat: no-repeat;
+                                                                                         border: none;
+                                                                                         cursor: pointer;
+                                                                                         overflow: hidden;
+                                                                                         color: rgb(240, 61, 120);
+                                                                                         margin-left: 950px;
+                                                                                         margin-top: 20px;
+                                                                                         font-size: 18px;
+                                                                                     }
