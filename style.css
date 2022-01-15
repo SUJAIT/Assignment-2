@@ -4,31 +4,34 @@
                                                                                      cursive;
                                                                                      font-family: 'Poppins',
                                                                                      sans-serif;
-                                                                                     /* Nav Design */
+                                                                                     /* Nav Design8*/
                                                                                      /* * {
                                                                                          margin: 0;
                                                                                          padding: 0;
                                                                                          font-family: sans-serif;
-                                                                                     }
+                                                                                     } */
                                                                                      
                                                                                      a,
                                                                                      p,
                                                                                      li {
-                                                                                         text-decoration: none;
-                                                                                     } */
+                                                                                         color: black;
+                                                                                         margin: 3px;
+                                                                                         font-size: 20px;
+                                                                                     }
                                                                                      
                                                                                      header {
-                                                                                         width: 900px;
+                                                                                         width: 1000px;
                                                                                          display: flex;
                                                                                          justify-content: space-between;
                                                                                      }
                                                                                      /* logo--design */
                                                                                      
                                                                                      .logo {
-                                                                                         font-size: 30px;
+                                                                                         font-size: 35px;
                                                                                          padding: 10px 20px;
                                                                                          cursor: pointer;
                                                                                          margin-left: 40px;
+                                                                                         font-weight: bold;
                                                                                      }
                                                                                      
                                                                                      .nav-bar li {
@@ -36,12 +39,25 @@
                                                                                          display: inline-block;
                                                                                      }
                                                                                      
+                                                                                     .h {
+                                                                                         text-decoration: none;
+                                                                                         margin: 5px;
+                                                                                         color: black;
+                                                                                     }
+                                                                                     
                                                                                      .nav-bar {
-                                                                                         padding: 10px 20px;
+                                                                                         margin-top: 59px;
+                                                                                         text-decoration: none;
                                                                                      }
                                                                                      
                                                                                      .icons {
-                                                                                         padding: 10px 20px;
+                                                                                         margin-top: 60px;
+                                                                                         margin-left: 40px;
+                                                                                     }
+                                                                                     
+                                                                                     .icon {
+                                                                                         margin-top: 60px;
+                                                                                         margin-left: -80px;
                                                                                      }
                                                                                      /* intro section */
                                                                                      
@@ -369,9 +385,10 @@
                                                                                          .container-five,
                                                                                          .container-sex,
                                                                                          .container-seven,
-                                                                                         {
+                                                                                         header {
                                                                                              width: 30%;
                                                                                          }
+                                                                                         .nav-bar,
                                                                                          .parents,
                                                                                          .parents-two,
                                                                                          .products-heading,
