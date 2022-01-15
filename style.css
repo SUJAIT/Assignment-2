@@ -352,3 +352,42 @@
                                                                                          color: #fff;
                                                                                          margin: 3px;
                                                                                      }
+                                                                                     /* ----------------------------------------------------------------mediaQuary----------------- */
+                                                                                     /* mobile                                                                                     */
+                                                                                     
+                                                                                     @media only screen and (max-width:688px) {
+                                                                                         .container,
+                                                                                         .right,
+                                                                                         .last {
+                                                                                             width: 50%;
+                                                                                         }
+                                                                                         .container-products,
+                                                                                         .container-products,
+                                                                                         .container-two,
+                                                                                         .container-there,
+                                                                                         .container-four,
+                                                                                         .container-five,
+                                                                                         .container-sex,
+                                                                                         .container-seven,
+                                                                                         {
+                                                                                             width: 30%;
+                                                                                         }
+                                                                                         .parents,
+                                                                                         .parents-two,
+                                                                                         .products-heading,
+                                                                                         .parents-three,
+                                                                                         .parents-four,
+                                                                                         .parents-five,
+                                                                                         .parents-six,
+                                                                                         .parents-seven,
+                                                                                         .parents-eaight,
+                                                                                         .parents-nine,
+                                                                                         .parents-ten,
+                                                                                         .parents-eleven,
+                                                                                         .b-two,
+                                                                                         .last-five {
+                                                                                             display: grid;
+                                                                                             grid-template-columns: repeat(1, 1fr);
+                                                                                             grid-gap: 8px;
+                                                                                         }
+                                                                                     }
