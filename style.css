@@ -1,9 +1,4 @@
                                                                                      /* google--fonts---link */
-                                                                                     
-                                                                                     font-family: 'Island Moments',
-                                                                                     cursive;
-                                                                                     font-family: 'Poppins',
-                                                                                     sans-serif;
                                                                                      /* Nav Design8*/
                                                                                      /* * {
                                                                                          margin: 0;
@@ -11,18 +6,21 @@
                                                                                          font-family: sans-serif;
                                                                                      } */
                                                                                      
+                                                                                     font-family: 'Island Moments',
+                                                                                     cursive;
+                                                                                     font-family: 'Poppins',
+                                                                                     sans-serif;
                                                                                      a,
                                                                                      p,
-                                                                                     li {
-                                                                                         color: black;
-                                                                                         margin: 3px;
-                                                                                         font-size: 20px;
-                                                                                     }
+                                                                                     li {}
                                                                                      
                                                                                      header {
                                                                                          width: 1000px;
                                                                                          display: flex;
                                                                                          justify-content: space-between;
+                                                                                         color: black;
+                                                                                         margin: 3px;
+                                                                                         font-size: 20px;
                                                                                      }
                                                                                      /* logo--design */
                                                                                      
